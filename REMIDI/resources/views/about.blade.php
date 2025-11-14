@@ -24,7 +24,7 @@
     <!-- CARD 2 -->
     <div class="col-md-6">
         <div class="card shadow-sm border-0">
-            <img src="https://i.ibb.co/jTrpyMh/cowboy.jpg" class="card-img-top" alt="IMAM RRR">
+            <img src="https://i.ibb.co/jTrpyMh/cowboy.jpg" class="card-img-top" alt="jayek">
 
             <div class="card-body">
                 <h5 class="card-title fw-bold"> I KETUT BAGUS PURNAJAYA</h5>
